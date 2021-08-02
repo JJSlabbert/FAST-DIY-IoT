@@ -12,3 +12,5 @@ Easy internet connection: https://github.com/tzapu/WiFiManager. WiFi manager use
 Cayenne is the free version of mydevices and is a cloud based web dashboard. It collects data from your sensors, display the data on graphs and sent instruction back to your microcontroller to maybe switch on a lite, open your gate etc. Cayenne can also use rules (like switch on a lite when it is dark). An event scheduler is also included in cayenne. Caynne use MQTT
 
 ArduinoOTA is a standard arduino library enabling you to update firmware of devices on your LAN.
+
+This project was tested with an ESP32 lolin wemos
