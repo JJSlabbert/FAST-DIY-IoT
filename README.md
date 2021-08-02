@@ -1,7 +1,7 @@
 # FAST-DIY-IoT
 Many IoT projects have a few requirement in common. If you have a basic template to satisfy all this requirements, development can speed up. Although most IoT projects use a fast variety of sensors and actuators to solve problems, the common requirements include:  
 1) A easy why to connect to the internet. If you have a WiFi device, it needs to get your WiFi hotspot details to connect to the internet. 
-2) You need to have a user-friendly, interactive method of communicating with your device. Reading sensors values, monitor and management of actuators (motors, speakers, heaters, air conditioners etc) must be ease, using good graphical user interface. Cloud based dashboards are useful. 
+2) You need to have a user-friendly, interactive method of communicating with your device. Reading sensors values, monitor and management of actuators (motors, speakers, heaters, air conditioners etc) must be easy, using good graphical user interface. Cloud based dashboards are useful. 
 3) Updating of firmware must be hazel free.
 
 
