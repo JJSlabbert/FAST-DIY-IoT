@@ -14,3 +14,5 @@ Cayenne is the free version of mydevices and is a cloud based web dashboard. It 
 ArduinoOTA is a standard arduino library enabling you to update firmware of devices on your LAN.
 
 This project was tested with an ESP32 lolin wemos
+
+See https://www.instructables.com/FAST-DIY-IoT/ for building instructions
